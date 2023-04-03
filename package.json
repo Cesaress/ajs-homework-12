@@ -1,7 +1,6 @@
 {
-  "name": "ajs",
+  "name": "ajs-homework-12",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development",
@@ -45,5 +44,14 @@
   },
   "dependencies": {
     "core-js": "^3.6.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cesaress/ajs-homework-12.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Cesaress/ajs-homework-12/issues"
+  },
+  "homepage": "https://github.com/Cesaress/ajs-homework-12#readme",
+  "description": ""
 }
